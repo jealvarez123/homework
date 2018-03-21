@@ -28,12 +28,31 @@ nav  {
 }
 
 }
+
+div {
+  display: inline-block;
+  margin: center;
+  padding: 50px 100px;
+}
 .face {
-  display: block;
+
     margin:center;
-    padding:  300px;
+    padding: 50px 250px;
 
 }
 .link{
-  
+
+}
+.video {
+
+    margin:center;
+    padding: 50px 100px;
+
+}
+.bullets {
+
+    margin:center;
+    padding: 50px 250px;
+
+
 }
